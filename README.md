@@ -1,2 +1,2 @@
-# OptimizationMethods
-Kursach
+# Методы оптимизии
+- Последние результаты тестов
